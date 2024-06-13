@@ -1,6 +1,6 @@
 ## Prazer!! Meu nome é Gustavo Bispo Guerra ✨
 
-![Gus GitHub stats](https://github-readme-stats.vercel.app/api?username=Guszguerra&theme=radical&count_private=true&show_icons=true)
+![Gus GitHub stats](https://github-readme-stats.vercel.app/api?username=Guszguerra&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guszguerra&theme=radical&layout=compact&langs_count=9)](https://github.com/Guszguerra/github-readme-stats)
 
 ## Técnologias:
