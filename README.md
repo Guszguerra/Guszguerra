@@ -21,7 +21,7 @@
 - 🖥️ Aprendendo as linguagens Javascript, C e SQL.Além de possuir conhecimento em HTML, CSS e Git.
 - ✨ Focado em aplicar meus estudos em projetos aplicados.
   
-## Redes Sociai
+## Redes Sociais
   <div> 
   <a href = "mailto:gustavobispoguerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-bispo-guerra-632984205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
