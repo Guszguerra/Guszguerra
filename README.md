@@ -21,7 +21,7 @@
 ## Sobre mim:
 
 - 📕 Atualmente cursando Ciências da Computação.
-- 🖥️ Conhecimento nas linguagens Java, Javascript, C e SQL.Além de possuir conhecimento em HTML, CSS e Git.
+- 🖥️ Conhecimento nas linguagens HTML, CSS, Javascript, C, Java, SQL e Git.Além de conhecer e estudar processos de Arquitetura de Software, Engenharia de Software, Alogritmos, Estrutura de Dados e Métodos Ágeis. 
 - ✨ Focado em aplicar meus estudos em projetos aplicados.
   
 ## Redes Sociais
